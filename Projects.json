@@ -34,7 +34,7 @@
         "MongoDB"
       ],
       "githubLink": "https://github.com/MananKanani5/moneymate",
-      "previewLink": "https://moneymate-preview.com",
+      "previewLink": "https://moneymate-g4q1.onrender.com/",
       "gallery": [
         "https://imagizer.imageshack.com/img924/6856/8lKBgA.jpg",
         "https://imagizer.imageshack.com/img923/2829/vUcsSz.png",
@@ -44,22 +44,6 @@
     },
     {
       "id": 2,
-      "title": "PawFinder",
-      "slug": "pawfinder",
-      "imgLink": "https://imagizer.imageshack.com/img924/1315/Kklk7v.png",
-      "description": "PawFinder is a compassionate and user-friendly responsive web app dedicated to addressing the heart-wrenching issue of lost pets. At the heart of PawFinder is a contemporary web development stack, combining the power of HTML, CSS, and JavaScript to craft an interface. In the backend, I've used PHP to ensure the secure handling of data, and I rely on the reliability of a MySQL database to safeguard the precious information collected. The result is a web app that offers a seamless and optimized viewing experience on a wide range of devices, including desktop computers, tablets, and mobile phones. Whether you're searching for a lost pet from the comfort of your home or on the go, PawFinder is there to assist. PawFinder is more than just technology; it's a movement, a collective effort to bring solace and joy back to pet owners who have lost their cherished companions. I understand the deep distress that comes with a lost pet, and my platform is designed to streamline the process of reuniting them with their loving families. It's a digital space where empathy and support thrive.",
-      "techStack": ["HTML", "CSS", "JavaScript", "PHP", "MYSQL"],
-      "githubLink": "https://github.com/MananKanani5/PawFinder",
-      "previewLink": "https://www.manankanani.in/pawfinder",
-      "gallery": [
-        "https://imagizer.imageshack.com/img922/483/8M2Ovx.png",
-        "https://imagizer.imageshack.com/img924/9967/gQMFY1.png",
-        "https://imagizer.imageshack.com/img924/1642/xtdSVz.png",
-        "https://imagizer.imageshack.com/img922/3632/ctF2nQ.png"
-      ]
-    },
-    {
-      "id": 3,
       "title": "PawFinder",
       "slug": "pawfinder",
       "imgLink": "https://imagizer.imageshack.com/img924/1315/Kklk7v.png",
