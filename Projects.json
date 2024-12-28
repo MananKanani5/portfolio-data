@@ -67,6 +67,23 @@
       "techStack": ["WordPress", "CSS", "MYSQL"],
       "githubLink": "NA",
       "previewLink": "https://mmsarkartaxiservices.in",
-      "gallery": ["https://i.ibb.co/k6q06Xm/mmsarkar.webp"]
+      "gallery": [
+          "https://i.ibb.co/k6q06Xm/mmsarkar.webp", 
+          "https://i.ibb.co/6tBD12y/about-us.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Passport Academy",
+      "slug": "passport-academy",
+      "imgLink": "https://i.ibb.co/GCXt4qn/passport-thumb.png",
+      "description": "Passport Academy is dedicated to providing exciting learning experiences that help children excel throughout the year. They strive to support students and families year-round with tailored educational services. The academy offers remediation to bridge gaps in math and reading, assistance with projects to ensure they meet all requirements, and guidance on mastering difficult skills or concepts. For international students, Passport Academy provides specialized support to help them learn English effectively. With certified teachers, personalized and small group sessions, and a focus on fun, purposeful learning, Passport Academy goes beyond traditional education to help every child succeed.",
+      "techStack": ["WordPress", "CSS", "MYSQL"],
+      "githubLink": "NA",
+      "previewLink": "https://passportacademy.net",
+      "gallery": [
+          "https://i.ibb.co/BtkQ8gk/home.webp", 
+          "https://i.ibb.co/RNWfyv6/product-single.webp"
+      ]
     }
   ]
