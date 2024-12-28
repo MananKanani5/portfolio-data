@@ -57,5 +57,16 @@
         "https://imagizer.imageshack.com/img924/1642/xtdSVz.png",
         "https://imagizer.imageshack.com/img922/3632/ctF2nQ.png"
       ]
+    },
+    {
+      "id": 3,
+      "title": "MM Sarkar Taxi Services",
+      "slug": "mm-sarkar-taxi-services",
+      "imgLink": "https://i.ibb.co/RyCNg34/mmsarkar.png",
+      "description": "MM Sarkar Taxi Services is dedicated to providing the best travel experience. Their mission is to ensure every journey is safe, reliable, and affordable. The company boasts a team of professional drivers and well-maintained vehicles, always ready to meet customers' transportation needs. From short rides across town to longer trips, MM Sarkar Taxi Services guarantees a smooth and comfortable experience every time. With a strong focus on customer satisfaction, the company strives to deliver excellent service from the moment a ride is booked to the final destination.",
+      "techStack": ["WordPress", "CSS", "MYSQL"],
+      "githubLink": "NA",
+      "previewLink": "https://mmsarkartaxiservices.in/about-us/",
+      "gallery": ["https://i.ibb.co/k6q06Xm/mmsarkar.webp"]
     }
   ]
