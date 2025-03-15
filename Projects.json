@@ -26,15 +26,15 @@
       "imgLink": "https://imagizer.imageshack.com/img924/8717/mO8TUj.png",
       "description": "MoneyMate is a comprehensive personal finance management tool designed to help users track, analyze, and optimize their expenses. The platform offers intuitive features for logging daily expenses, categorizing transactions, and visualizing spending patterns through detailed charts and graphs. It comes with a user-friendly dashboard that includes key financial insights, such as total spending, category-wise distribution, and weekly trends, all displayed in real-time. Built with modern web technologies like React for the frontend and Node.js with Express for the backend, MoneyMate ensures smooth performance and a highly interactive experience. The application leverages MongoDB for robust data storage, allowing users to securely store and access their financial data. With Chart.js integration, users can view their financial data in engaging visual formats, making it easier to identify spending habits. Future enhancements include AI-powered financial advice and savings tips tailored to user behavior, making MoneyMate not just a tracker, but a true companion for achieving financial goals. Fully responsive and optimized for both desktop and mobile, MoneyMate is the perfect tool for individuals looking to take control of their finances.",
       "techStack": [
-        "ejs",
+        "React.js",
         "Bootstrap",
         "chart.js",
         "Node.js",
         "Express",
         "MongoDB"
       ],
-      "githubLink": "https://github.com/MananKanani5/moneymate",
-      "previewLink": "https://moneymate-g4q1.onrender.com/",
+      "githubLink": "https://github.com/MananKanani5/moneymate-backend",
+      "previewLink": "https://moneymate-frontend-omega.vercel.app/",
       "gallery": [
         "https://imagizer.imageshack.com/img924/6856/8lKBgA.jpg",
         "https://imagizer.imageshack.com/img923/2829/vUcsSz.png",
