@@ -1,26 +1,6 @@
 [
     {
       "id": 0,
-      "title": "BlogIt",
-      "slug": "blogit",
-      "imgLink": "https://imagizer.imageshack.com/img924/8938/fY1WJJ.png",
-      "description": "BlogIt is a dynamic blogging platform designed to offer a seamless and intuitive user experience. It allows users to create, edit, and publish blogs with ease. The platform features a rich text editor that supports multimedia, including images and videos, and provides a variety of customizable themes to enhance the overall aesthetics of each blog post. BlogIt also includes a user-friendly interface for managing content, with real-time previews and automatic saving to prevent data loss. Built with modern technologies such as React for the frontend, Node.js and Express for the backend, and MongoDB for database management, the platform ensures fast, reliable performance. Tailwind CSS is used for styling, enabling a clean, responsive design that adapts perfectly to both desktop and mobile devices. Whether you're an individual blogger or part of a larger content team, BlogIt empowers you to share your voice and engage with an online audience effectively.",
-      "techStack": ["ejs", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
-      "githubLink": "https://github.com/MananKanani5/blogit",
-      "previewLink": "https://blogiit-e3bc98a44335.herokuapp.com/",
-      "gallery": [
-        "https://imagizer.imageshack.com/img924/6913/LLt0vh.png",
-        "https://imagizer.imageshack.com/img922/2667/L4mkFY.png",
-        "https://imagizer.imageshack.com/img922/6567/bluDLp.png",
-        "https://imagizer.imageshack.com/img924/6043/N00B0h.png",
-        "https://imagizer.imageshack.com/img924/4572/8PzkZR.png",
-        "https://imagizer.imageshack.com/img924/6726/ZSHEke.png",
-        "https://imagizer.imageshack.com/img923/4939/qLBscK.png",
-        "https://imagizer.imageshack.com/img924/5264/uaR1Yi.png"
-      ]
-    },
-    {
-      "id": 1,
       "title": "MoneyMate",
       "slug": "moneymate",
       "imgLink": "https://imagizer.imageshack.com/img924/8717/mO8TUj.png",
@@ -40,6 +20,26 @@
         "https://imagizer.imageshack.com/img923/2829/vUcsSz.png",
         "https://imagizer.imageshack.com/img923/3966/8X0xKM.png",
         "https://imagizer.imageshack.com/img922/1503/UBc1Ve.png"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "BlogIt",
+      "slug": "blogit",
+      "imgLink": "https://imagizer.imageshack.com/img924/8938/fY1WJJ.png",
+      "description": "BlogIt is a dynamic blogging platform designed to offer a seamless and intuitive user experience. It allows users to create, edit, and publish blogs with ease. The platform features a rich text editor that supports multimedia, including images and videos, and provides a variety of customizable themes to enhance the overall aesthetics of each blog post. BlogIt also includes a user-friendly interface for managing content, with real-time previews and automatic saving to prevent data loss. Built with modern technologies such as React for the frontend, Node.js and Express for the backend, and MongoDB for database management, the platform ensures fast, reliable performance. Tailwind CSS is used for styling, enabling a clean, responsive design that adapts perfectly to both desktop and mobile devices. Whether you're an individual blogger or part of a larger content team, BlogIt empowers you to share your voice and engage with an online audience effectively.",
+      "techStack": ["ejs", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
+      "githubLink": "https://github.com/MananKanani5/blogit",
+      "previewLink": "https://blogiit-e3bc98a44335.herokuapp.com/",
+      "gallery": [
+        "https://imagizer.imageshack.com/img924/6913/LLt0vh.png",
+        "https://imagizer.imageshack.com/img922/2667/L4mkFY.png",
+        "https://imagizer.imageshack.com/img922/6567/bluDLp.png",
+        "https://imagizer.imageshack.com/img924/6043/N00B0h.png",
+        "https://imagizer.imageshack.com/img924/4572/8PzkZR.png",
+        "https://imagizer.imageshack.com/img924/6726/ZSHEke.png",
+        "https://imagizer.imageshack.com/img923/4939/qLBscK.png",
+        "https://imagizer.imageshack.com/img924/5264/uaR1Yi.png"
       ]
     },
     {
