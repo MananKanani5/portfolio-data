@@ -50,7 +50,7 @@
       "description": "PawFinder is a compassionate and user-friendly responsive web app dedicated to addressing the heart-wrenching issue of lost pets. At the heart of PawFinder is a contemporary web development stack, combining the power of HTML, CSS, and JavaScript to craft an interface. In the backend, I've used PHP to ensure the secure handling of data, and I rely on the reliability of a MySQL database to safeguard the precious information collected. The result is a web app that offers a seamless and optimized viewing experience on a wide range of devices, including desktop computers, tablets, and mobile phones. Whether you're searching for a lost pet from the comfort of your home or on the go, PawFinder is there to assist. PawFinder is more than just technology; it's a movement, a collective effort to bring solace and joy back to pet owners who have lost their cherished companions. I understand the deep distress that comes with a lost pet, and my platform is designed to streamline the process of reuniting them with their loving families. It's a digital space where empathy and support thrive.",
       "techStack": ["HTML", "CSS", "JavaScript", "PHP", "MYSQL"],
       "githubLink": "https://github.com/MananKanani5/PawFinder",
-      "previewLink": "https://pawfinder.free.nf/",
+      "previewLink": "https://pawfinder.free.nf",
       "gallery": [
         "https://imagizer.imageshack.com/img922/483/8M2Ovx.png",
         "https://imagizer.imageshack.com/img924/9967/gQMFY1.png",
@@ -66,7 +66,7 @@
       "description": "MM Sarkar Taxi Services is dedicated to providing the best travel experience. Their mission is to ensure every journey is safe, reliable, and affordable. The company boasts a team of professional drivers and well-maintained vehicles, always ready to meet customers' transportation needs. From short rides across town to longer trips, MM Sarkar Taxi Services guarantees a smooth and comfortable experience every time. With a strong focus on customer satisfaction, the company strives to deliver excellent service from the moment a ride is booked to the final destination.",
       "techStack": ["WordPress", "CSS", "MYSQL"],
       "githubLink": "NA",
-      "previewLink": "https://mmsarkartaxiservices.in",
+      "previewLink": "NA",
       "gallery": [
           "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1742041491/Portfolio/mmsarkar/ypdymzqljmid9lxbt5x4.webp", 
           "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1742041491/Portfolio/mmsarkar/vkwuohjy54j54erpzg3a.webp"
@@ -80,7 +80,7 @@
       "description": "Passport Academy is dedicated to providing exciting learning experiences that help children excel throughout the year. They strive to support students and families year-round with tailored educational services. The academy offers remediation to bridge gaps in math and reading, assistance with projects to ensure they meet all requirements, and guidance on mastering difficult skills or concepts. For international students, Passport Academy provides specialized support to help them learn English effectively. With certified teachers, personalized and small group sessions, and a focus on fun, purposeful learning, Passport Academy goes beyond traditional education to help every child succeed.",
       "techStack": ["WordPress", "CSS", "MYSQL"],
       "githubLink": "NA",
-      "previewLink": "https://passportacademy.net",
+      "previewLink": "NA",
       "gallery": [
           "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1742041631/Portfolio/passportacademy/lwy8grezspbeea9s8kxt.webp", 
           "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1742041631/Portfolio/passportacademy/uih43tfghqf4stgtuhd2.webp"
