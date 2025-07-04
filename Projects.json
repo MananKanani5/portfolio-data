@@ -1,6 +1,34 @@
 [
     {
-      "id": 0,
+  "id": 0,
+  "title": "Yash Raj Films HRMS",
+  "slug": "yrf-hrms",
+  "imgLink": "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751612387/yrf-hrms_k7mhzq.png",
+ "description": "<strong>Note:</strong> This is an internal client project developed under <strong>EnPointe.io</strong> during my internship, so I can't share the preview or GitHub links publicly. However, I’ve attached screenshots for reference.<br><br><strong>YRF-HRMS</strong> is a scalable Human Resource Management System tailored to streamline and digitize organizational workflows. Built for a film production company, the system handles employee management, leave tracking, application workflows, form analytics, announcements, and role-based access control.<br><br>With a modern and clean interface powered by <strong>React</strong> and <strong>Tailwind CSS</strong>, it offers a responsive dashboard for employees, managers, and HR admins. The backend is built using <strong>Node.js</strong>, <strong>Express</strong>, and <strong>TypeScript</strong>, ensuring robust API handling and clean code structure. <strong>Prisma ORM</strong> is used with <strong>PostgreSQL</strong> for efficient data management and seamless schema handling.<br><br>The system supports real-time form insights, user-specific dashboards, application history, and hierarchical approvals. It also includes features like organization-level settings, bulk user onboarding, and timezone-aware date handling using <strong>Day.js</strong>.<br><br><strong>YRF-HRMS</strong> is secure, modular, and designed for real-world enterprise use, enabling smooth digital transformation within HR departments."
+"techStack": [
+    "React.js",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "Prisma ORM",
+    "PostgreSQL",
+    "Day.js"
+  ],
+  "githubLink": "NA",
+  "previewLink": "NA",
+  "gallery": [
+    "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751611067/sign-in_bdjxsk.png",
+    "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751611138/dashboard_fzfgap.png",
+    "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751611301/masters_qudxnp.png",
+    "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751611296/Reports_qyy46d.png",
+      "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751611439/Mob_Home_ualzek.png",
+      "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1751611547/Leave_Request_Pending_q2t2p8.png"
+  ]
+    },
+    
+    {
+      "id": 1,
       "title": "MoneyMate",
       "slug": "moneymate",
       "imgLink": "https://imagizer.imageshack.com/img924/8717/mO8TUj.png",
@@ -23,7 +51,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "BlogIt",
       "slug": "blogit",
       "imgLink": "https://imagizer.imageshack.com/img924/8938/fY1WJJ.png",
@@ -43,7 +71,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "PawFinder",
       "slug": "pawfinder",
       "imgLink": "https://imagizer.imageshack.com/img924/1315/Kklk7v.png",
@@ -59,7 +87,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "MM Sarkar Taxi Services",
       "slug": "mm-sarkar-taxi-services",
       "imgLink": "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1742042149/Portfolio/mmsarkar/akpbzsnigyxqdrjfapxw.png",
@@ -73,7 +101,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Passport Academy",
       "slug": "passport-academy",
       "imgLink": "https://res.cloudinary.com/dk4fzbjt9/image/upload/v1742041943/Portfolio/passportacademy/mgh2yeqchgtga4em7i6s.png",
